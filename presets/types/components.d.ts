@@ -4,7 +4,7 @@
 
 declare module 'vue' {
   export interface GlobalComponents {
-    
+    Network: typeof import('./../../src/components/Network/index.vue')['default']
   }
 }
 

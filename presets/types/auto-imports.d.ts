@@ -126,7 +126,7 @@ declare global {
   const useCssVars: typeof import('vue')['useCssVars']
   const useCycleList: typeof import('@vueuse/core')['useCycleList']
   const useDark: typeof import('@vueuse/core')['useDark']
-  const useDarks: typeof import('/code/tov-template/src/composables/useDarks')['default']
+  const useDarks: typeof import('/Users/xinge/Desktop/vite/xin-template/src/composables/useDarks')['default']
   const useDateFormat: typeof import('@vueuse/core')['useDateFormat']
   const useDebounce: typeof import('@vueuse/core')['useDebounce']
   const useDebouncedRefHistory: typeof import('@vueuse/core')['useDebouncedRefHistory']

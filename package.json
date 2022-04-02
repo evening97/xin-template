@@ -23,6 +23,7 @@
     "analysis:build": "windicss-analysis --html dist"
   },
   "dependencies": {
+    "element-plus": "^2.1.7",
     "vue": "^3.2.31"
   },
   "devDependencies": {
