@@ -2,6 +2,7 @@
 	"i18n-ally.localesPaths": ["locales"],
 	"i18n-ally.keystyle": "nested",
 	"cSpell.words": [
+		"windi",
 		"Windicss"
 	]
 }
